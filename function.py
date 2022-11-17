@@ -12,6 +12,6 @@ test1()
 
 # hpold varaible
 
-print(a = test1())
+a = test1()
 
 print(type(a))
