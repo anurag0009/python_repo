@@ -1,17 +1,5 @@
-# if you dont write snything in function just write pass
-def test():
-    pass
+def func(name):
+    print("hello my new function", name)
 
 
-# calling a function
-def test1():
-    print("this is my first function")
-
-
-test1()
-
-# hpold varaible
-
-a = test1()
-
-print(type(a))
+func("anurag")
